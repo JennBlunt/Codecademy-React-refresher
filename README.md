@@ -2,7 +2,13 @@
 #### After a little bit of time off to raise a puppy (called Hank), I was feeling a little rusty on my React basics.
 #### This was a Codecademy project I completed as a refresher.
 
-#### As of today (Aug 21) the project is incomplete, the next step will be to connect to the Yelp API. This should be completed in the next few day (and I'll remove this note)
+
+
+
+
+
+
+
 
 
 ******************************************************************************************************************************
